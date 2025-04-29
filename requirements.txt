@@ -1,0 +1,6 @@
+langgraph 
+langchain-community 
+duckduckgo-search 
+transformers 
+langchain 
+faiss-gpu-cu12
