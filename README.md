@@ -1,7 +1,7 @@
 
 # 🤖 Agentia Assistant
 
-![Agentia Logo](agentia.png)
+[!image](https://raw.githubusercontent.com/ambideXtrous9/Agentia-Agentic-Chatbot-Assistant/refs/heads/main/agentia.jpg)
 
 **Your intelligent AI-powered chat assistant** ✨
 
