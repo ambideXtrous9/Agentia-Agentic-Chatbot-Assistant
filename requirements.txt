@@ -1,3 +1,4 @@
+torch
 langgraph 
 langchain-community 
 duckduckgo-search 
