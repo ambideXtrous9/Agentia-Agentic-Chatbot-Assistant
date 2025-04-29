@@ -2,11 +2,11 @@
 # 🤖 Agentia : Agentic Assistant
 
 
-<div align="center">
-  <img src="[agentia.png](https://raw.githubusercontent.com/ambideXtrous9/Agentia-Agentic-Chatbot-Assistant/refs/heads/main/agentia.jpg)" width="100" alt="Agentia Logo">
-</div>
-
 ![image](https://raw.githubusercontent.com/ambideXtrous9/Agentia-Agentic-Chatbot-Assistant/refs/heads/main/agentia.jpg)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ambideXtrous9/Agentia-Agentic-Chatbot-Assistant/refs/heads/main/agentia.jpg" width="200" alt="Agentia Logo">
+</div>
 
 **Your intelligent AI-powered Agentic assistant** ✨
 
@@ -68,6 +68,4 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 ---
 
 <p align="center">✨ Happy chatting with Agentia! ✨</p>
-<div align="center">
-  <img src="agentia.png" width="100" alt="Agentia Logo">
-</div>
+
