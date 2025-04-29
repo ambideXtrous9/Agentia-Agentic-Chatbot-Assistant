@@ -1,6 +1,11 @@
 
 # 🤖 Agentia : Agentic Assistant
 
+
+<div align="center">
+  <img src="[agentia.png](https://raw.githubusercontent.com/ambideXtrous9/Agentia-Agentic-Chatbot-Assistant/refs/heads/main/agentia.jpg)" width="100" alt="Agentia Logo">
+</div>
+
 ![image](https://raw.githubusercontent.com/ambideXtrous9/Agentia-Agentic-Chatbot-Assistant/refs/heads/main/agentia.jpg)
 
 **Your intelligent AI-powered Agentic assistant** ✨
