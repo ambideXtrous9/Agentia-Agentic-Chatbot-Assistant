@@ -5,7 +5,11 @@
   <img src="https://raw.githubusercontent.com/ambideXtrous9/Agentia-Agentic-Chatbot-Assistant/refs/heads/main/agentia.jpg" width="200" alt="Agentia Logo">
 </div>
 
-**Your intelligent AI-powered Agentic assistant** ✨
+
+<div align="center">
+    Your intelligent AI-powered Agentic assistant ✨
+</div>
+
 
 ---
 
